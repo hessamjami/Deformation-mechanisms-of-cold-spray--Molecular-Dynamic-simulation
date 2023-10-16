@@ -33,3 +33,6 @@ LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator)
 C++ Compiler (e.g., g++)
 Usage
 After setting up the atomic structure and potential file, you can run the code using LAMMPS as described above.
+## References
+- Jami, H., & Jabbarzadeh, A. (2019). Unraveling ultrafast deformation mechanisms in surface deposition of titanium nanoparticles. *Applied Surface Science*, 489, 446-461.
+
